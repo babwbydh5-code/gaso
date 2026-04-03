@@ -9,7 +9,7 @@ firebase.initializeApp({
   messagingSenderId: "124782250398",
   appId: "1:124782250398:web:89eb5d87fb6ff57b706e8f",
   measurementId: "G-MW0YMLDFHW",
-  databaseURL: "https://gas-sudan-81ecc-default-rtdb.firebaseio.com"
+  databaseURL: "https://gas-sudan-81ecc-default-rtdb.firebaseio.com/"
 });
 
 const messaging = firebase.messaging();
